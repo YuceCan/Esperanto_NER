@@ -1,0 +1,45 @@
+Text,Manally labelled,Label_Model,Evaluation
+Esperantic Studies Foundation,ORG,ORG,True Positive
+ESF,ORG,ORG,True Positive
+ESF,ORG,MISC,Wrong Label
+1968,MISC,,False Negative
+Humphrey Tonkin,PER,PER,True Positive
+Humphrey Tonkin,PER,PER,True Positive
+Universitato de Pensilvanio,ORG,MISC,Wrong Label
+Jonathan Pool,PER,PER,True Positive
+Universitato de Vaŝingtono,ORG,MISC,Wrong Label
+E. James Lieberman,PER,PER,True Positive
+universitato George Washington,ORG,,False Negative
+Esperanto,MISC,MISC,True Positive
+Esperanto,MISC,MISC,True Positive
+Esperanto,MISC,MISC,True Positive
+Esperanto,MISC,MISC,True Positive
+Universitato Harvard,ORG,ORG,True Positive
+1970-aj jaroj,MISC,,False Negative
+1980-aj jaroj,MISC,,False Negative
+SIT,ORG,ORG,True Positive
+School for International Training,ORG,ORG,True Positive
+Vermonto,LOC,LOC,True Positive
+Usono,LOC,LOC,True Positive
+Bazan Esperanto-kurson,MISC,,False Negative
+Esperanto and International Problems,MISC,,False Negative
+Esperanto kaj Internaciaj Problemoj,MISC,,False Negative
+1986,MISC,,False Negative
+UK,MISC,LOC,Wrong Label
+James Fallows,PER,PER,True Positive
+Albert Valdman,PER,PER,True Positive
+pri,,ORG,False Positive
+pri,,ORG,False Positive
+pri,,ORG,False Positive
+kaj d-ro,,PER,False Positive
+George Washington,,PER,False Positive
+Fondaĵo,,MISC,False Positive
+ilo,,ORG,False Positive
+antaŭenigi sciencan,,PER,False Positive
+esploradon kaj dialogon,,PER,False Positive
+kaj lingvopolitiko,,PER,False Positive
+tia fondaĵo,,PER,False Positive
+–,,MISC,False Positive
+–,,MISC,False Positive
+Internaciaj Problemoj,,MISC,False Positive
+kreola lingvistiko,,PER,False Positive
