@@ -3,7 +3,7 @@ import spacy
 # Load spaCy's multilingual NER model
 nlp = spacy.load("xx_ent_wiki_sm")
 
-# Read the text from your file
+# Read the text from the file
 with open("esf_sample.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
